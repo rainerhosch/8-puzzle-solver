@@ -58,8 +58,6 @@ class EightPuzzle:
 			print("action: ", action, "\n", cell[0], "\n", file=output)
 			action_solution += action+"\n"
 		print("Goal Reached, with this action:\n"+ action_solution, file=output)
-		# for action, cell in zip(solution[0], solution[1]):
-		# print("ENode State: ", self.node, "\n", file=output )
 		if output_file is not None:
 			output.close()
 
