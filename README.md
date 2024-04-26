@@ -33,3 +33,10 @@ py main.py
 
 # On working
 i will add some methode, for generate decision tree visualization
+
+# RESULT
+### Problem
+![image](https://github.com/rainerhosch/8-puzzle-solver/assets/54917867/c23ba07b-ddaf-4ef0-ad44-8dbc3240fa7e)
+### Solution
+![image](https://github.com/rainerhosch/8-puzzle-solver/assets/54917867/4c5398ca-ecfa-44b1-8934-4d96e5b1f0ff)
+![image](https://github.com/rainerhosch/8-puzzle-solver/assets/54917867/78a5a82d-a184-45e1-8bfa-8f95525efa40)
