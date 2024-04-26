@@ -23,7 +23,7 @@ source venv/Scripts/activate
 
 #### install required library
 ```code
-pip install numpy 
+pip install -r requirements.txt
 ```
 
 #### now run the code
