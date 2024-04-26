@@ -30,3 +30,6 @@ pip install numpy
 ```code
 py main.py
 ```
+
+# On working
+i will add some methode, for generate decision tree visualization

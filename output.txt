@@ -1,0 +1,71 @@
+Initial State:
+ [[1 2 3]
+ [8 0 4]
+ [7 6 5]] 
+
+Goal State:
+ [[2 8 1]
+ [0 4 3]
+ [7 6 5]] 
+
+
+States Explored:  358 state
+
+Solution:
+ 
+action:  move up 
+ [[1 0 3]
+ [8 2 4]
+ [7 6 5]] 
+
+action:  move left 
+ [[0 1 3]
+ [8 2 4]
+ [7 6 5]] 
+
+action:  move down 
+ [[8 1 3]
+ [0 2 4]
+ [7 6 5]] 
+
+action:  move right 
+ [[8 1 3]
+ [2 0 4]
+ [7 6 5]] 
+
+action:  move right 
+ [[8 1 3]
+ [2 4 0]
+ [7 6 5]] 
+
+action:  move up 
+ [[8 1 0]
+ [2 4 3]
+ [7 6 5]] 
+
+action:  move left 
+ [[8 0 1]
+ [2 4 3]
+ [7 6 5]] 
+
+action:  move left 
+ [[0 8 1]
+ [2 4 3]
+ [7 6 5]] 
+
+action:  move down 
+ [[2 8 1]
+ [0 4 3]
+ [7 6 5]] 
+
+Goal Reached, with this action:
+move up
+move left
+move down
+move right
+move right
+move up
+move left
+move left
+move down
+
