@@ -6,6 +6,27 @@ The 8-puzzle problem is a puzzle invented and popularized by Noyes Palmer Chapma
 [8 puzzle prooblem](https://www.d.umn.edu/~jrichar4/8puz.html#:~:text=What%20is%20an%208%20Puzzle,in%20the%20%22goal%20state%22.)
 
 # instruction
+#### clone this repo
 ```code
 git clone https://github.com/rainerhosch/8-puzzle-solver.git
+```
+
+#### setup virtual env python project
+##### initialize venv
+```code
+python -m venv venv
+```
+##### set venv to project
+```code
+source venv/Scripts/activate 
+```
+
+#### install required library
+```code
+pip install numpy 
+```
+
+#### nor run the code
+```code
+py main.py
 ```
