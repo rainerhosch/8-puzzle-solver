@@ -26,7 +26,7 @@ source venv/Scripts/activate
 pip install numpy 
 ```
 
-#### nor run the code
+#### now run the code
 ```code
 py main.py
 ```
