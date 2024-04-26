@@ -7,4 +7,5 @@ The 8-puzzle problem is a puzzle invented and popularized by Noyes Palmer Chapma
 
 # instruction
 ```code
+git clone https://github.com/rainerhosch/8-puzzle-solver.git
 ```
